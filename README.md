@@ -6,7 +6,7 @@ Simple and Light with lots of data to show
 
 # Installation
 
-1. Open RivaTuner Statistics Server (RTSS)
+1. Clone or Download(as zip file) this repo and open RivaTuner Statistics Server (RTSS)
 2. Click on the blue [Setup] button on the bottom
 3. Open the [Plugins] tab
 4. Click on [OverlayEditor.dll]
