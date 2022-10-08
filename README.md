@@ -1,4 +1,4 @@
-![In-Game Screenshot](https://github.com/AIMI-SAYO/RTSS-Compact-Overlay-for-Gaming/blob/main/Screenshot (114).png?raw=true)
+![In-Game Screenshot](https://github.com/AIMI-SAYO/RTSS-Compact-Overlay-for-Gaming/blob/main/In-Game_Screenshot.png?raw=true)
 
 # RTSS Compact Overlay
 
