@@ -20,4 +20,4 @@ BUT DO NOT UNINSTALL IT, becouse some data values comming right from MSI Afterbu
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Screenshot (114).png)
