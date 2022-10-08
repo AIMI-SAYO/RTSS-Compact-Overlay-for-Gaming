@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/AIMI-SAYO/RTSS-Compact-Overlay-for-Gaming/main/Screenshot%20(114).png
+
 # RTSS Compact Overlay
 
 Simple and Light with lots of data to show
@@ -17,7 +19,3 @@ Simple and Light with lots of data to show
 # Important
 If you have MSI Afterburner installed please disable any monitors inside the MSI AB software
 BUT DO NOT UNINSTALL IT, becouse some data values comming right from MSI Afterburner
-
-## Screenshots
-
-![App Screenshot](Screenshot (114).png)
